@@ -1,0 +1,69 @@
+R.P.N. Esseling
+
+F0 = 32 is earth rotation per half hour = O over assumed ST 
+T1 = F0
+S2 = 32^-2 = 16 
+ST3 = 32^-3 = 0
+
+F0 /= ST3 is false
+
+Pay attention: Sqrt (^-2) is a non sum.division 
+and or Sqc (^-1 + ^-2 + ^-3) is a sum.division
+
+F0 = -Fn = 32 
+-S2 = 32 ^ -1 + 32 ^ -2 = 48 or Sphere over Qube = 32 ^ -1 + 32 ^ -2 = 48
+-ST3 = (32 ^ -1) + (32 ^ -2) + (32 ^ -3) = 48
+-ST3^0^1 = (32 ^ -1) + (32 ^ -2) + (32 ^ -3) = 48
+-?4 = (32 ^ -1) + (32 ^ -2) + (32 ^ -3) + (32 ^ -4) = ?48 
+
+From T(32) to S(48) to ST(48) = 0 = false
+Suggested T(48) because of T = S = ST
+Assumption Use of Sqrt(^-2) otherwise Sqc(^-1 + ^-2) 
+messed up 3d to 2d calculations 
+or earth rotation in half hours was measured using visual position over 
+next visual position creating 10 degrees offset because of olyps orbit of Earth.
+or earth rotation was measured using oppposing force
+to break spin momemtun of Earth's rotation and possbly forgetting 
+about the angle of rotation explaining 10 degrees offset.
+
+Speed of sound 700m/s = N720 * 48 * 700 = false as ST =/ F
+Speed of sound 720m/s = N720 * 48 * 720 = true as T = S = ST 
+Speed of sound in D-algebra = N720^0 = 48^1 = 720^3 = 1 = true
+
+Example to compare truancy:
+pluto takes a supposed 8 months to return from it's assumed trip around 
+the invisible, ftl spin, black hole at the center if the universe.
+8 / 32 = 1/5 = false
+8 / 48 = 1/8 = true
+
+Inconclusion: Pluto really goes away for 8 months around (a) black hole.
+Rotation of earth is a corrected (or not depending on source) 48 (per no unit).
+
+Conclusion: Sqrt is implemented wrong for an unknown ammount of sources. 
+Assume every source is wrong for almost every calculation.
+Problem in use (^-2) vs. (^-1 + ^-2 + ^-3). 
+
+Next step. Correct for Speed of light
+ 
+Sp.o.l    = 300000 (assumed)
+Sp.o.l^32 = 1,853020189x10^175
+Sp.o.l.aT = 1,853020189x10???^-1 = 0
+Sp.o.l.aS = 1,853020189x10???^-2 = 0
+Sp.o.l.aST= 1,853020189x10???^-3 = 0
+
+Truancy (0=1) of F^n division of 300000 km/s
+
+Corrected
+F0 = 48
+Fm = S.o.L = F(48)^1 F(48)^2 F(48)^3 = 112944
+
+Side step to affirm falsehood truancy with correcting:
+S.o.l corrected for wrongly assumed spin of earth as 0.32 per half hour
+Sp.o.l = (300000 / 30) * 32 = 32000
+
+F0 = 48 is per full orbit around the sun (assumption)
+Sp.o.l = F(48)^1 F(48)^2 F(48)^3 = 2835 per full orbit 
+.. 2835 ^ 48 = 136080 per 1/48 orbit. 2 earth days is one sun (sol) day.
+Preposition: Sol native 1 day = soln1 = 136080 km/s   
+
+
