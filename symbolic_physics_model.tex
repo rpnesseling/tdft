@@ -13,6 +13,19 @@
 
 \section*{Raw Input}
 \begin{verbatim}
+
+Analyzing the problem
+
+F = Force as both 0 and n dimensional ^
+T = Time as one dimensional ^1
+S = Space as two dimensional ^2
+ST = SpaceTime as three dimensional ^30
+
+F = T = S = ST
+F0 = F1^1 = F2^2 = F3^3
+F0 = T^1  = S^2  = ST^3
+
+
 F0 = 32 is earth rotation per half hour = O over assumed ST 
 T1 = F0
 S2 = 32^-2 = 16 
@@ -20,6 +33,15 @@ ST3 = 32^-3 = 0
 
 F0 /= ST3 is false
 
+Expectation: F0 = ST3
+Result: F0 /= ST3
+
+F0 = 32
+T1 = F0
+S2 = 32^-1 + 32^-2 +  32^-3 = 
+
+
+Comparing Sqrt(^0-2) vs. Sqc (^-1 + ^-2 + ^-3)
 Pay attention: Sqrt (^-2) is a non sum.division 
 and or Sqc (^-1 + ^-2 + ^-3) is a sum.division
 
@@ -41,7 +63,15 @@ about the angle of rotation explaining 10 degrees offset.
 
 Speed of sound 700m/s = N720 * 48 * 700 = false as ST =/ F
 Speed of sound 720m/s = N720 * 48 * 720 = true as T = S = ST 
-Speed of sound in D-algebra = N720^0 = 48^1 = 720^3 = 1 = true
+Speed of sound in D-algebra = (720/2)^1 = (48/2)^2 = 1 = true
+
+calc: (48^-1)((48^-1)(48^-2))((48^-1)(48^-2)(48^-3))
+
+technical limitation of 48^-0: 
+(48^0-1) + (48^-1 + 48^-2) + (48^-1 + 48^-2 + 48^-3) = technical limitation
+therefor: ((48^0)(48^-1))((48^-1)(48^-2))((48^-1)(48^-2)(48^-3))
+Inconclusion: accept -0 as value
+
 
 Example to compare truancy:
 pluto takes a supposed 8 months to return from it's assumed trip around 
@@ -55,6 +85,9 @@ Rotation of earth is a corrected (or not depending on source) 48 (per no unit).
 Conclusion: Sqrt is implemented wrong for an unknown ammount of sources. 
 Assume every source is wrong for almost every calculation.
 Problem in use (^-2) vs. (^-1 + ^-2 + ^-3). 
+Use the negative power notation sqc 
+(As we live in a positive D4 this will be positive. 
+Proved in my thesis the theory of dimensional fields)
 
 Next step. Correct for Speed of light
  
@@ -77,7 +110,7 @@ Sp.o.l = (300000 / 30) * 32 = 32000
 F0 = 48 is per full orbit around the sun (assumption)
 Sp.o.l = F(48)^1 F(48)^2 F(48)^3 = 2835 per full orbit 
 .. 2835 ^ 48 = 136080 per 1/48 orbit. 2 earth days is one sun (sol) day.
-Preposition: Sol native 1 day = soln1 = 136080 km/s   
+Preposition: Sol native 1 day = sol^2n1 = 136080 km/s   
 \end{verbatim}
 
 \end{document}
