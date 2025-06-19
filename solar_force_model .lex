@@ -1,5 +1,5 @@
 ..start
-\documentclass[12pt]{article}
+\documentclass[12pt]{thesis}
 \usepackage{amsmath,amssymb}
 \usepackage{geometry}
 \geometry{margin=1in}
