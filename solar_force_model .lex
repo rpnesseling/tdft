@@ -8,6 +8,7 @@
 \^maintainer{[R.P.N. Esseling]}
 \date{\today}
 \^status{[R.P.N. Esseling]}
+\^copyright{[R.P.N Esseling]}
 
 \begin{document}
 
