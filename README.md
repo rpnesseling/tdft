@@ -1,4 +1,7 @@
 Material for my thesis about the unifying model for physics.
+
+Files are in .tex format but can be opened in any text editor.
+
 Formulas and code are my ownership. Do not copy without my permission. Only me.
 For use please contact rpnesseling@gmail.com
 Experimenting is fine, but not for profit. 
