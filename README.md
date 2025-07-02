@@ -13,5 +13,5 @@ If you've been scammed also mail me with the details. there are no intermediate 
 edit: I seem to be under virtual boycot and a LOT of people cannot contact me at all.
 No idea what to do here! Sorry for not responding
 
-edit2: I would love to have the field theorem published and would love for Oxford to do so. Hereby my permission.
+edit2: I would love to have the field theorem published and would love for Oxford to do so.
 I'm still having problems contacting most of the outside world
