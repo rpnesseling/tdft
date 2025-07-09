@@ -15,3 +15,6 @@ No idea what to do here! Sorry for not responding
 
 edit2: I would love to have the field theorem published and would love for Oxford to do so.
 I'm still having problems contacting most of the outside world
+
+Be sure to check out: be_wary_of_tex_latex_time_travel_fraud.tex.zip
+It shows how you can manipulate the dates in tex files.
