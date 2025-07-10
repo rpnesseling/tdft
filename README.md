@@ -5,7 +5,7 @@ Files are in .tex format but can be opened in any text editor. Files are in proj
 Formulas and code are my ownership. Do not copy without my permission. Only me.
 For use please contact rpnesseling@gmail.com
 or rubenesseling@pm.me 
-Phone is +31648160614
+
 Experimenting is fine, but not for profit. 
 
 If you've been scammed also mail me with the details. there are no intermediate sellers.
@@ -19,3 +19,7 @@ I'm still having problems contacting most of the outside world
 Be sure to check out: be_wary_of_tex_latex_time_travel_fraud.tex.zip
 It shows how you can manipulate the dates in tex files.
 Source: https://tex.stackexchange.com/questions/314257/time-travel-in-latex
+
+Contact
+
+Phone is +31648160614
